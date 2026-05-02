@@ -45,7 +45,7 @@
 ###
 
 <br clear="both">
-<div align="center">
+<div align="center" style="margin-top: "20px; ">
 <img src="https://raw.githubusercontent.com/Unish-Maharjan/Unish-Maharjan/output/snake.svg" alt="Snake animation" />
 </div>
 
