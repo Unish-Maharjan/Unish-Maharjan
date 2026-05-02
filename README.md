@@ -2,13 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Unish-Maharjan&show_icons=true&theme=dracula&count_private=true&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Unish-Maharjan&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" />
-
-  
-</div>
-
 ###
 
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenlrOWU2bzlwbnF1aGtmcHdwd2IzOWFpMmtnaThpajViZTltZjF6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zKBcZUw49Sxtm/giphy.gif"  />
