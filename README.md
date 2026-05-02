@@ -3,8 +3,10 @@
 ###
 
 <div align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unish-Maharjan)](https://github.com/Unish-Maharjan/github-readme-stats)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Unish-Maharjan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Unish-Maharjan&show_icons=true&theme=dracula&count_private=true&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Unish-Maharjan&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" />
+
+  
 </div>
 
 ###
@@ -45,7 +47,7 @@
 ###
 
 <br clear="both">
-<div align="center" style="margin-top: "20px; ">
+<div align="center">
 <img src="https://raw.githubusercontent.com/Unish-Maharjan/Unish-Maharjan/output/snake.svg" alt="Snake animation" />
 </div>
 
