@@ -1,6 +1,25 @@
-<h2 align="left">Hi 👋! My name is Unish Maharjan and I'm a Software Developer from Nepal</h2>
+<h2 align="left"Hey 👋, I'm Unish — a MERN Stack Developer crafting scalable web applications 💻</h2>
 
-###
+
+<div align="center">
+
+
+
+<img src="https://streak-stats.demolab.com?user=Unish-Maharjan&theme=tokyonight&hide_border=true" height="150" />
+
+<br/>
+
+
+</div>
+
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Unish-Maharjan&style=flat-square&color=blue" />
+
+</div>
 
 ###
 
