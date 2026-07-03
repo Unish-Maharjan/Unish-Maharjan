@@ -1,4 +1,4 @@
-<h2 align="left">
+<h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=900&lines=A+MERN+Stack+Developer;Crafting+scalable+web+applications+%F0%9F%92%BB" alt="Typing SVG" />
 </h2>
 
